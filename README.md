@@ -49,7 +49,7 @@ Com este agente de IA:
 - ✅ **Análise automática** de documentos jurídicos (liminar, sentença, acórdão etc)
 - ✅ **Extração inteligente** de informações-chave
 - ✅ **Preenchimento automático** de telegramas padronizados
-- ✅ **Redução de 90% do tempo** de processamento
+- ✅ **Redução do tempo** de processamento
 
 ---
 
