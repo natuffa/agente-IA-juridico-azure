@@ -1,0 +1,8 @@
+Prezado(a) {nome_segurado},
+Cartão: {numero_cartao}
+Informamos que recebemos determinação judicial referente ao processo nº {numero_processo}, proveniente do {tribunal_ou_comarca}, para "{trecho_deferimento_integra}".
+O atendimento relacionado a esta decisão poderá ser realizado via reembolso conforme as regras vigentes da seguradora. Para isso, solicitamos que sejam apresentados recibos ou notas fiscais contendo: nome do prestador, descrição do serviço, data de realização e valor pago. Após o envio, a análise será feita pela equipe responsável.
+Nossa Central Judicial permanece disponível para apoiar nas orientações necessárias.
+Atenciosamente,
+Setor de Liminares Judiciais – Saúde
+Seguradora de Saúde

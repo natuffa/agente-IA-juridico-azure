@@ -1,0 +1,9 @@
+MODELO PADRÃO DE TELEGRAMA (BASE OFICIAL)
+Prezado(a) {nome_segurado},
+Cartão: {numero_cartao}
+Informamos que recebemos determinação judicial referente ao processo nº {numero_processo}, proveniente do {tribunal_ou_comarca}, para “{trecho_deferimento_integra}”.
+Caso existam documentos, comprovações ou agendamentos necessários para a execução adequada da determinação, nossa equipe poderá entrar em contato para orientação.
+Em caso de dúvida, entre em contato com nossa Central Judicial por um dos canais informados no verso deste telegrama.
+Atenciosamente,
+Setor de Liminares Judiciais – Saúde
+Seguradora de Saúde

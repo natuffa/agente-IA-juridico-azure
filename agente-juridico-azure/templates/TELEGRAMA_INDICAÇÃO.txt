@@ -1,0 +1,12 @@
+Prezado(a) {nome_segurado},
+Cartão: {numero_cartao}
+Informamos que recebemos determinação judicial referente ao processo nº {numero_processo}, proveniente do {tribunal_ou_comarca}, para "{trecho_deferimento_integra}".
+Abaixo seguem dados de um prestador indicado para realização do atendimento:
+Nome: {nome_prestador_indicado}
+Contato: {contato_prestador_indicado}
+Endereço: {endereco_prestador_indicado}
+Caso prefira não utilizar o prestador indicado, você poderá optar pela realização do atendimento em local de sua preferência, com possibilidade de reembolso dentro dos limites contratuais.
+Nossa Central Judicial está disponível caso precise de auxílio adicional.
+Atenciosamente,
+Setor de Liminares Judiciais – Saúde
+Seguradora de Saúde
