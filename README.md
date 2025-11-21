@@ -122,7 +122,7 @@ graph LR
 
 **Saída do Agente:**
 
-![Print da análise](https://github.com/natuffa/agente-juridico-azure/blob/main/agente-juridico-azure/prints/analise-liminar.png?raw=true)
+![Print da análise](agente-juridico-azure/prints/analise-liminar.png)
 
 ```
 Resumo simples:
@@ -154,7 +154,7 @@ Data de início: não identificado
 
 **Saída do Agente:**
 
-![Print do telegrama](https://github.com/natuffa/agente-juridico-azure/blob/main/agente-juridico-azure/prints/telegrama-preenchido.png?raw=true)
+![Print do telegrama](agente-juridico-azure/prints/telegrama-preenchido.png)
 
 ```
 Confirmo o modelo de telegrama de reembolso. Vou preenchê-lo com as informações extraídas do documento.  
@@ -238,7 +238,7 @@ Plataforma principal para criação e gerenciamento do agente de IA
 ### Passo 2: Configurar o System Prompt
 
 1. Na seção **"Configuração"**
-2. Cole nas intruções o prompt completo disponível em: [`/prompts/prompt-do-agente.md`](agente-juridico-azure/prompts/prompt-do-agente.md)
+2. Cole nas intruções o prompt completo disponível em: [`/prompts/prompt-do-agente.md`](agente-IA-juridico-azure/prompts/prompt-do-agente.md)
 
 ### Passo 3: Adicionar Knowledge Base
 
