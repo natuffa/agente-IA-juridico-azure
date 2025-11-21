@@ -238,7 +238,7 @@ Plataforma principal para criação e gerenciamento do agente de IA
 ### Passo 2: Configurar o System Prompt
 
 1. Na seção **"Configuração"**
-2. Cole nas intruções o prompt completo disponível em: [`/prompts/prompt-do-agente.md`](agente-IA-juridico-azure/prompts/prompt-do-agente.md)
+2. Cole nas intruções o prompt completo disponível em: [`/prompts/prompt-do-agente.md`](agente-juridico-azure/prompts/prompt-do-agente.md)
 
 ### Passo 3: Adicionar Knowledge Base
 
